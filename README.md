@@ -50,8 +50,11 @@
 ### 최종 데이터
 공공 데이터 파일을 전처리하여 총 6개의 csv를 생성
  - [places.csv](https://github.com/maryrichard1022/capstone2/files/13724397/places.csv) (총 1900개 장소)
+   
  - [categories.csv](https://github.com/maryrichard1022/capstone2/files/13724365/categories.csv) (카테고리별 탐색)
+   
  - [filters.csv](https://github.com/maryrichard1022/capstone2/files/13724383/filters.csv), [filters_places.csv](https://github.com/maryrichard1022/capstone2/files/13724384/filters_places.csv) (맞춤 필터 기능)
+   
  - [courses.csv](https://github.com/maryrichard1022/capstone2/files/13724374/courses.csv), [courses_places.csv](https://github.com/maryrichard1022/capstone2/files/13724376/courses_places.csv) (미래유산코스)
 
 
