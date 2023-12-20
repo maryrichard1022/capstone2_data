@@ -48,7 +48,7 @@
 
 ### 최종 데이터
 공공 데이터 파일을 기반으로 총 6개의 테이블을 생성
- - places.csv (총 1900개 장소에 대한 CSV)
+ - places.csv (총 1900개 장소)
  - categories.csv (카테고리별 탐색)
  - filters.csv, filters_places.csv (맞춤 필터 기능)
  - courses.csv, courses_places.csv (미래유산코스)
