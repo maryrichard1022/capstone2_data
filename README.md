@@ -76,5 +76,6 @@
   사용자 기반 협업 필터링, 아이템 기반 협업 필터링을 이용하여 사용자가 찜한 장소를 기반으로 다른 장소를 추천하는 알고리즘을 개발 
  - 코사인 유사도, 자카드 유사도를 이용하여 유사도 행렬을 계산하는 것이 핵심!
 
-## 사이트 시연 영상
-- [서울산책 유튜브 시연영상](https://www.youtube.com/watch?v=bkNFukoFNGQ)
+## 프로젝트 최종 결과
+- 유튜브 : [서울산책 시연영상](https://www.youtube.com/watch?v=bkNFukoFNGQ)
+- 프로젝트 보고서 : [서울산책 프로젝트 보고서.pdf](https://github.com/maryrichard1022/capstone2/files/13724567/2.pdf)
