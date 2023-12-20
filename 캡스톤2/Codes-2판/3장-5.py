@@ -35,7 +35,9 @@ def RMSE(y_true, y_pred):
 def score(model):
     id_pairs = zip(x_test['user_id'], x_test['movie_id'])
     y_pred = np.array([model(user, movie) for (user, movie) in id_pairs])
+    print("예측", y_pred)
     y_true = np.array(x_test['rating'])
+    print("실제", y_true)
     return RMSE(y_true, y_pred)
 
 # train 데이터로 Full matrix 구하기  

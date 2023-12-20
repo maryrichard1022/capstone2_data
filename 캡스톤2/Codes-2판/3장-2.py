@@ -116,6 +116,7 @@ def recommender(user, n_items=10, neighbor_size=20):
 
 recommender(user=2, n_items=5, neighbor_size=30)
 
+
 ##### (5) 최적의 neighbor size 구하기
 
 # train set으로 full matrix와 cosine similarity 구하기 
