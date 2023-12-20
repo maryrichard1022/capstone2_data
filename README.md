@@ -41,22 +41,24 @@
  - [서울 미래유산 체험코스](https://data.seoul.go.kr/dataList/OA-15447/S/1/datasetView.do)
  
 
-### 데이터 전처리
-- places.csv (총 1900개 장소에 대한 CSV)
-- categories.csv (카테고리별 탐색)
-- filters.csv, filters_places.csv (맞춤 필터 기능)
-- courses.csv, courses_places.csv (미래유산코스)
+### 데이터 전처리 
+- 자치구 결측치 : 정규식으로 주소에서 '-구' 단어 추출
+- 위도, 경도 결측치 : 지오코딩
+- 이미지 결측치 : 동적 크롤링
 
-
+### 최종 데이터
+공공 데이터 파일을 기반으로 총 6개의 테이블을 생성
+ - places.csv (총 1900개 장소에 대한 CSV)
+ - categories.csv (카테고리별 탐색)
+ - filters.csv, filters_places.csv (맞춤 필터 기능)
+ - courses.csv, courses_places.csv (미래유산코스)
 
 
 ### 추천 알고리즘 개발
-  - 찜 기반 장소 추천 (UBCF + IBCF 알고리즘)
-    사용자 기반 협업 필터링, 아이템 기반 협업 필터링을 이용하여 사용자가 찜한 장소를 기반으로 다른 장소를 추천하는 알고리즘을 개발 
-  
 
-
-
+- 찜 기반 장소 추천 (UBCF + IBCF 알고리즘)
+  사용자 기반 협업 필터링, 아이템 기반 협업 필터링을 이용하여 사용자가 찜한 장소를 기반으로 다른 장소를 추천하는 알고리즘을 개발 
+ 
 
 ## 사이트 시연 영상
 - [서울산책 유튜브 시연영상](https://www.youtube.com/watch?v=bkNFukoFNGQ)
