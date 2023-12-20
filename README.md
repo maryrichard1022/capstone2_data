@@ -50,36 +50,24 @@
 ### 최종 데이터
 공공 데이터 파일을 전처리하여 총 6개의 csv를 생성
  - [places.csv](https://github.com/maryrichard1022/capstone2/files/13724397/places.csv) (총 1900개 장소)
- - 
-   ![places 테이블](https://github.com/maryrichard1022/capstone2/assets/108461812/28ab7f0d-7285-4b07-8c9d-50ddba1c9740)
-
-
-
-
+<img width="1000" src="https://github.com/maryrichard1022/capstone2/assets/108461812/28ab7f0d-7285-4b07-8c9d-50ddba1c9740">
 
  - [categories.csv](https://github.com/maryrichard1022/capstone2/files/13724365/categories.csv) (카테고리별 탐색)
- - 
-![카테고리 테이블](https://github.com/maryrichard1022/capstone2/assets/108461812/dcdd712f-9084-4b82-b34f-799d558dca4e)
 
+<img width="200" src="https://github.com/maryrichard1022/capstone2/assets/108461812/dcdd712f-9084-4b82-b34f-799d558dca4e">
 
-
-
-   
  - [filters.csv](https://github.com/maryrichard1022/capstone2/files/13724383/filters.csv),
 [filters_places.csv](https://github.com/maryrichard1022/capstone2/files/13724384/filters_places.csv) (맞춤 필터 기능)
 
 
-![필터](https://github.com/maryrichard1022/capstone2/assets/108461812/7af0bf02-a2ab-442c-ae17-f466dbbf7d81)
-![필터 플레이스](https://github.com/maryrichard1022/capstone2/assets/108461812/cf2dc843-4aee-4e73-ba76-8c358b6061c5)
+<img width="200" src="https://github.com/maryrichard1022/capstone2/assets/108461812/7af0bf02-a2ab-442c-ae17-f466dbbf7d81">
+<img width="400" src="https://github.com/maryrichard1022/capstone2/assets/108461812/cf2dc843-4aee-4e73-ba76-8c358b6061c5">
 
-
-   
  - [courses.csv](https://github.com/maryrichard1022/capstone2/files/13724374/courses.csv),
 [courses_places.csv](https://github.com/maryrichard1022/capstone2/files/13724376/courses_places.csv) (미래유산코스)
 
-
-![코스 테이블](https://github.com/maryrichard1022/capstone2/assets/108461812/51c32644-a5de-429a-9fda-14811edc9bf4)
-![코스 플레이스](https://github.com/maryrichard1022/capstone2/assets/108461812/94d23abc-c7a0-431a-b010-dbb729f18f0b)
+<img width="600" src="https://github.com/maryrichard1022/capstone2/assets/108461812/51c32644-a5de-429a-9fda-14811edc9bf4">
+<img width="300" src="https://github.com/maryrichard1022/capstone2/assets/108461812/94d23abc-c7a0-431a-b010-dbb729f18f0b">
 
 
 ### 추천 알고리즘 개발
