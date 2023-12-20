@@ -79,6 +79,6 @@
 - 가까운 거리 장소 추천
   사용자가 위치한 좌표의 북동쪽, 동남쪽의 좌표 사이에 있는 장소를 모두 반환
 
-## 프로젝트 최종 결과
+## 프로젝트 서울산책 최종 결과
 - 유튜브 : [서울산책 시연영상](https://www.youtube.com/watch?v=bkNFukoFNGQ)
 - 프로젝트 보고서 : [서울산책 프로젝트 보고서.pdf](https://github.com/maryrichard1022/capstone2/files/13724567/2.pdf)
