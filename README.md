@@ -60,14 +60,14 @@
 [filters_places.csv](https://github.com/maryrichard1022/capstone2/files/13724384/filters_places.csv) (맞춤 필터 기능)
 
 
-<img width="200" src="https://github.com/maryrichard1022/capstone2/assets/108461812/7af0bf02-a2ab-442c-ae17-f466dbbf7d81">
+<img width="350" src="https://github.com/maryrichard1022/capstone2/assets/108461812/7af0bf02-a2ab-442c-ae17-f466dbbf7d81">
 <img width="400" src="https://github.com/maryrichard1022/capstone2/assets/108461812/cf2dc843-4aee-4e73-ba76-8c358b6061c5">
 
  - [courses.csv](https://github.com/maryrichard1022/capstone2/files/13724374/courses.csv),
 [courses_places.csv](https://github.com/maryrichard1022/capstone2/files/13724376/courses_places.csv) (미래유산코스)
 
 <img width="600" src="https://github.com/maryrichard1022/capstone2/assets/108461812/51c32644-a5de-429a-9fda-14811edc9bf4">
-<img width="300" src="https://github.com/maryrichard1022/capstone2/assets/108461812/94d23abc-c7a0-431a-b010-dbb729f18f0b">
+<img width="400" src="https://github.com/maryrichard1022/capstone2/assets/108461812/94d23abc-c7a0-431a-b010-dbb729f18f0b">
 
 
 ### 추천 알고리즘 개발
